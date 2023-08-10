@@ -1,0 +1,438 @@
+gh_user_id,github_login,html_url,full_name,bio,public_repos,following
+84855080,github-stats-bot,https://api.github.com/users/github-stats-bot,Git Hub stats bot ,This is boot for pulling out stats about PR's and commits only for internal Tink usage. Own by @marcingabor,0,0
+101980682,irmasys-machine,https://api.github.com/users/irmasys-machine,IRMASYS bot user,"This is a user intended to be used by machines, not humans, like Ansible playbooks installing stuff. It should be given read-only access to repositories.",0,0
+36010719,marnen-bot,https://api.github.com/users/marnen-bot,Marnen's bot account,Bot account for @marnen.,0,0
+36225416,SciTools-assistant,https://api.github.com/users/SciTools-assistant,SciTools-assistant: a bot to help with SciTools orchestration,Please don't send me messages. I don't know what to do with them...,0,0
+30725487,DIAGWebTeam,https://api.github.com/users/DIAGWebTeam,DIAG Webteam Deploy bot ,Deploy bot for DIAG Webteam,0,0
+64026957,coindexbotmaster,https://api.github.com/users/coindexbotmaster,coindex bot master,"beeep boop beeeeep beep beep booop.
+beep booooooop beep?!
+beep beep!
+
+- boop boop beep",0,0
+17085281,deatRobot,https://api.github.com/users/deatRobot,Free bot 3,,0,0
+97711978,givebk-bot,https://api.github.com/users/givebk-bot,givebk bot ,[$] givebk allows you to send and receive money through github comments. ,0,0
+72466297,unklebot,https://api.github.com/users/unklebot,Uncle bot - Your automated refactor tool ,I am a bot which opens PR in order to improve quality of code. ,0,0
+31212820,theochem-ci-bot,https://api.github.com/users/theochem-ci-bot,"Roberto, a CI bot of the theochem organization",I've been relentlessly testing pull requests and uploading releases for all of my existence.,0,0
+17412388,invdev,https://api.github.com/users/invdev,just a bot profile,,0,0
+56565287,ng-alis,https://api.github.com/users/ng-alis,nightingale bot 1,used for automated github issue creation and other tasks,0,0
+94503000,1e8be6803efcd1082ca4a9ad0d7019f1c_roche,https://api.github.com/users/1e8be6803efcd1082ca4a9ad0d7019f1c_roche,"KL Manual Billing RPA bot Test, Global {~Budapest Rse}",,0,0
+94502629,a455954425621360789578ffee26ae69d_roche,https://api.github.com/users/a455954425621360789578ffee26ae69d_roche,"KL Manual Billing RPA bot Prod, Global {~Budapest Rse}",,0,0
+59631048,abdillahbot,https://api.github.com/users/abdillahbot,Abdillah bot 'o bot,I am the bot of @Abdillah.,0,1
+6270979,choco-bot,https://api.github.com/users/choco-bot,The chocolatiest bot this side of the Mississippi,,0,0
+6271899,rvdv,https://api.github.com/users/rvdv,Robin's bot for automated stuff,,0,0
+31940689,daptivbot,https://api.github.com/users/daptivbot,Readonly bot account,,0,0
+17887850,bot-mobify-buddybuild,https://api.github.com/users/bot-mobify-buddybuild,Buddy Build bot account,,0,0
+7089892,PropellerQAHerz,https://api.github.com/users/PropellerQAHerz,"QA dep bot for our server GIT operations (mostly clone/pull, but push also).",,0,0
+18250282,tadbot,https://api.github.com/users/tadbot,TA bot van Djuri,,0,0
+119533320,github-murine-bot,https://api.github.com/users/github-murine-bot,Murine GitHub bot user,,0,0
+58187160,liveon-ci,https://api.github.com/users/liveon-ci,Ci bot - LiveOn,,0,0
+33165366,PabloBotOfficial,https://api.github.com/users/PabloBotOfficial,Pablo! 2022 - The ultimate bot that replaces multiple bots!,Pablo! is the ultimate bot that replaces multiple bots and is a multi-purpose bot to make your server fancy!,0,0
+53090002,FNALbuild,https://api.github.com/users/FNALbuild,Fermilab build bot account,,0,0
+58260620,kuboon-docker,https://api.github.com/users/kuboon-docker,kuboon bot for docker,,0,0
+18512293,pr-assistent,https://api.github.com/users/pr-assistent,PR assistant bot ,,0,0
+45999759,sjvs-lgtm-bot,https://api.github.com/users/sjvs-lgtm-bot,LGTM bot (for @sjvs),I'm the LGTM bot for @sjvs,0,0
+58471338,mbed-edge-ci,https://api.github.com/users/mbed-edge-ci,arm Mbed Edge ci bot account,Owner: olli-pekka.puolitaival@arm.com,0,0
+48687836,njzjz-bot,https://api.github.com/users/njzjz-bot,A bot of @njzjz,A bot of @njzjz,0,0
+73941403,papertrail-bot-webclient,https://api.github.com/users/papertrail-bot-webclient,Papertrail bot (web),Helping out with handy comments on PRs,0,0
+104941761,TashKingdomBot,https://api.github.com/users/TashKingdomBot,Ranking bot Tash's kINGDOM,,0,0
+18582178,slack4cb,https://api.github.com/users/slack4cb,CaringBridge bot for Slack notifications,,0,0
+104994170,ftsrg-bot-2,https://api.github.com/users/ftsrg-bot-2,ftsrg bot II,,0,0
+34079665,daptivbotrw,https://api.github.com/users/daptivbotrw,Readwrite bot account,,0,0
+49310632,devtools-jx-bot-proof,https://api.github.com/users/devtools-jx-bot-proof,nuxeo devtools jenkins-x bot on sandbox,,0,0
+48953052,dailymotion-jenkins-bot,https://api.github.com/users/dailymotion-jenkins-bot,Jenkins bot @dailymotion,I'm just a regular bot,0,0
+19229253,wired-bot,https://api.github.com/users/wired-bot,WIRED bot user,,0,0
+46481285,saironek,https://api.github.com/users/saironek,sairon's bot account,My master is @sairon,0,0
+112462980,qelabs-bot_pwcit,https://api.github.com/users/qelabs-bot_pwcit,qelabs bot (US),,0,0
+19334027,angieslist-search-build-bot,https://api.github.com/users/angieslist-search-build-bot,This bot automatically commits the latest build numbers to angieslist-geosort,,0,0
+67384875,vng-vivid,https://api.github.com/users/vng-vivid,Vivid bot (of house Vivid),,0,0
+19342708,IPUbot,https://api.github.com/users/IPUbot,IPU bot account for automated tasks,,0,0
+19393806,modum-jenkins-bot,https://api.github.com/users/modum-jenkins-bot,"I am a bot, bot is my name.",,0,0
+37880587,tirefirebot,https://api.github.com/users/tirefirebot,beepboop tirefire bot beepboop,I'm a bot that helps make sure some software aren't tire fires.,0,0
+38084931,firstops,https://api.github.com/users/firstops,first bot account,,0,0
+78795546,notlessbotbetter,https://api.github.com/users/notlessbotbetter,not less bot better,Just a bot.,0,0
+96366162,Shehararushari,https://api.github.com/users/Shehararushari,Speed watsapp bot ,,0,0
+105857730,SkiprPostman,https://api.github.com/users/SkiprPostman,Postman bot for Skipr,,0,0
+5088218,CataJenkins,https://api.github.com/users/CataJenkins,Jenkins bot for Cataclysm: Dark Days Ahead,This is the bot that does Jenkins stuff for the Cataclysm DDA project.,0,0
+48689091,devtools-jx-bot,https://api.github.com/users/devtools-jx-bot,jenkins-x bot for nuxeo devtools cloud platform,,0,0
+6729099,gu-who-guardian,https://api.github.com/users/gu-who-guardian,gu-who bot for The Guardian,,0,0
+79329541,Metehan52,https://api.github.com/users/Metehan52,dc bot pb 1,,0,0
+96904999,sanvit-bot,https://api.github.com/users/sanvit-bot,sanvit's bot account,,0,0
+79452601,adi-linux-test,https://api.github.com/users/adi-linux-test,Test bot for ADI Yocto Linux,I test things to make sure they are correct,0,0
+61191615,grandvisioncircleci2,https://api.github.com/users/grandvisioncircleci2,GrandVision CI bot 2,,0,0
+47970126,mbed-ci-3,https://api.github.com/users/mbed-ci-3,ARM mbed CI bot 3,"Owners: donatien.garnier@arm.com, timo.urhonen@arm.com, olli-pekka.puolitaival@arm.com",0,0
+61367754,GitDiaryBot,https://api.github.com/users/GitDiaryBot,Telegram bot for diary in plain text files and git,,0,0
+69195095,wecros-bot,https://api.github.com/users/wecros-bot,Testing bot for @wecros,,0,0
+40244245,SHG-bot,https://api.github.com/users/SHG-bot,Friendly bot from Sport Heroes Group,"Hi, 
+
+I am a friendly bot making @sportheroes a better place by automating different things ever since I came to life thanks to @TheOptimisticFactory",0,0
+75861153,assemble-bot,https://api.github.com/users/assemble-bot,asmbl bot ,🤖 🤖 ,0,0
+69244086,leap-external-bot,https://api.github.com/users/leap-external-bot,OUP-DTG external bot (not a human),,0,0
+48552069,walkin-github,https://api.github.com/users/walkin-github,Github bot @ WalkIn,,0,0
+40902346,archer-unlimited,https://api.github.com/users/archer-unlimited,Archer read only bot for unlimited updates,,0,0
+80218251,beyond-gg,https://api.github.com/users/beyond-gg,the bot thing,Astronomy Events API ,0,0
+6812852,guestdriven-bot,https://api.github.com/users/guestdriven-bot,GuestDriven bot for JIRA and Slack,,0,0
+93124883,sab-maas-honda-bot,https://api.github.com/users/sab-maas-honda-bot,MaaS Honda bot (SAB),,0,0
+9765942,ofiwg-bot,https://api.github.com/users/ofiwg-bot,Automated bot for the OFIWG organization,,0,0
+71128522,github-bot-djarvur,https://api.github.com/users/github-bot-djarvur,github bot for Djarvur,,0,0
+65342671,AdminBot-tskit,https://api.github.com/users/AdminBot-tskit,Admin bot for tskit-dev,I rebase and build docs so you don't have to. You lazy fleshwad.,0,0
+5039788,ci-werkspot,https://api.github.com/users/ci-werkspot,CI bot for Werkspot,,0,0
+49699375,ethitter-bot,https://api.github.com/users/ethitter-bot,ethitter's bot account,"Bot account of @ethitter, used for things better accomplished via a GitHub organization.",0,0
+7416038,open62541-travis-ci,https://api.github.com/users/open62541-travis-ci,Travis-ci bot for open62541,,0,0
+22898103,mathpixsrc,https://api.github.com/users/mathpixsrc,Mathpix source access bot for continuous integration,Not the bot you are looking for ...,0,0
+13531688,transbot-vauxoo,https://api.github.com/users/transbot-vauxoo,translation bot of vauxoo,,0,0
+15034530,I4S-SecDevOps,https://api.github.com/users/I4S-SecDevOps,SecDevOps bot ,,0,0
+123164012,SkiprClickUp,https://api.github.com/users/SkiprClickUp,ClickUp bot for Skipr,,0,0
+15363913,quaivedemo,https://api.github.com/users/quaivedemo,Quaive bot account,,0,0
+9457370,fixer-bot,https://api.github.com/users/fixer-bot,fixer bot (CISVR02),,0,0
+116716249,SkiprFlutter,https://api.github.com/users/SkiprFlutter,Flutter bot for Skipr,,0,0
+23410445,openpublishbuild-bot1,https://api.github.com/users/openpublishbuild-bot1,Open Publishing Build Service - bot 1,,0,0
+23410455,openpublishbuild-bot2,https://api.github.com/users/openpublishbuild-bot2,Open Publishing Build Service - bot 2,,0,0
+51915938,iss-docker,https://api.github.com/users/iss-docker,[UHH] ISS bot for automated docker builds,,0,0
+24654370,mbed-ci-2,https://api.github.com/users/mbed-ci-2,ARM mbed CI bot 2,"Owners: mika.karjalainen@arm.com, roman.savelyev@arm.com",0,0
+25220385,sami-tc,https://api.github.com/users/sami-tc,Sami's Team City bot builder,,0,0
+82896740,microarray-svc-tfs-runner,https://api.github.com/users/microarray-svc-tfs-runner,Build bot account,I am building your sources from 2021.,0,0
+83211639,iotsyte,https://api.github.com/users/iotsyte,Pelion iotsyte CI bot ,Owner: marko.hiltunen@pelion.com,0,0
+26091539,aadidgit,https://api.github.com/users/aadidgit,Azure Identity SDK bot for continuous integration,,0,0
+10646440,mikubot,https://api.github.com/users/mikubot,mikubot(stanby development bot account),,0,0
+1397635,roqua-jenkins,https://api.github.com/users/roqua-jenkins,CI & Code review bot account,,0,0
+47956599,pfn-ci-bot,https://api.github.com/users/pfn-ci-bot,PFN bot for CI/CD,,0,0
+11439811,5thfloor-bot,https://api.github.com/users/5thfloor-bot,"A bot from 5th Floor, Inc.",,0,0
+13081653,DugaBot,https://api.github.com/users/DugaBot,A bot named Duga,,0,0
+43622085,aio-libs-bot,https://api.github.com/users/aio-libs-bot,A bot for aio-libs organization,,0,0
+12597225,paz-sh-bot,https://api.github.com/users/paz-sh-bot,Paz GitHub bot for CI and Apiary,,0,0
+25180681,renovate-bot,https://api.github.com/users/renovate-bot,Shane Clarke,WhiteSource Renovate is a bot to keep dependencies up-to-date using Pull Requests. To install: https://github.com/apps/renovate,0,0
+73812536,upptime-bot,https://api.github.com/users/upptime-bot,Upptime Bot,"Beep boop... I'm a good robot who helps track downtimes using @upptime by @koj-co. If I misbehave, contact @AnandChowdhary.",0,0
+55914069,ducobot,https://api.github.com/users/ducobot,,Hi! I'm a Duino-Coin PyGitHub bot that updates API file every 120 seconds on duco-statistics repository.,0,1
+36490558,regro-cf-autotick-bot,https://api.github.com/users/regro-cf-autotick-bot,,"I'm the bot for auto updating conda-forge feedstocks with new versions.
+Please put issues/errors here: https://github.com/regro/cf-scripts/issues
+",0,0
+43047562,scala-steward,https://api.github.com/users/scala-steward,Scala Steward,I'm a bot trying to keep your Scala projects up-to-date.,0,0
+57991240,frozzbot,https://api.github.com/users/frozzbot,Frozzbot,I'm a bot owned by @frozzare. I do stuff that other bots do.,0,1
+112581971,dependabot-support,https://api.github.com/users/dependabot-support,,Please see GitHub Support for any Dependabot questions.,0,0
+31427850,ImgBotApp,https://api.github.com/users/ImgBotApp,Imgbot,I commit for Imgbot https://imgbot.net,0,0
+64059023,DataUpdaterBot,https://api.github.com/users/DataUpdaterBot,Data Updater Bot,Yet another bot which is following the commands of @SauravKanchan,0,0
+61282226,IgorKowalczykBot,https://api.github.com/users/IgorKowalczykBot,Igor Kowalczyk,🤖 A Github bot created by @IgorKowalczyk,0,2
+20296731,nextcloud-bot,https://api.github.com/users/nextcloud-bot,Nextcloud Bot,"Eat some bits there, create some bytes here ... the usual stuff a bot does :package:",0,0
+44816363,yoshi-automation,https://api.github.com/users/yoshi-automation,Yoshi Automation Bot,I'm a github bot used by @googleapis,0,0
+11063859,SmokeDetector,https://api.github.com/users/SmokeDetector,SmokeDetector,I'm a bot (beep boop). I scan new content on the Stack Exchange network to find potential spam. Developed by @Charcoal-SE.,0,0
+28799638,glotbot,https://api.github.com/users/glotbot,Electron Translation Bot,"I'm a robot doing internationalization work for @electron.
+
+Friend of @electron-bot",0,0
+57644535,AmbNum-Bot,https://api.github.com/users/AmbNum-Bot,,I am a bot // Je suis un bot,0,0
+14149180,PeterBot,https://api.github.com/users/PeterBot,Bot of PeterDaveHello,A bot of @PeterDaveHello,0,1
+80468013,truecharts-admin,https://api.github.com/users/truecharts-admin,TrueCharts Bot,I'm your resident bot for @truecharts,0,1
+89395732,OTA-Bot,https://api.github.com/users/OTA-Bot,Open Terms Archive Bot,I'm a bot used for the Open Terms Archive project - Je suis un robot utilisé pour le projet Open Terms Archive,0,0
+30547892,Roblox-Client-Tracker,https://api.github.com/users/Roblox-Client-Tracker,Roblox Client Tracker,I'm a bot that maintains @MaximumADHD's Roblox-Client-Tracker repository!,0,0
+80791056,Roblox-API-Tracker,https://api.github.com/users/Roblox-API-Tracker,Roblox API Tracker,This bot is used to automatically push API changes to the Roblox API Tracker repository.,0,0
+66069679,exercism-bot,https://api.github.com/users/exercism-bot,Exercism Bot,I'm a bot that does automated things on GitHub for @exercism,0,0
+19979279,dpebot,https://api.github.com/users/dpebot,DPEBot,I'm a little robot to help maintain @GoogleCloudPlatform repos.,0,0
+60070799,nsmbot,https://api.github.com/users/nsmbot,Network Service Mesh Bot,This is a bot to carry out actions on behalf of the Network Service Mesh Community,0,0
+63058869,Octomerger,https://api.github.com/users/Octomerger,Octomerger Bot,I'm a robot that helps merge GitHub's documentation PRs.,0,0
+38661258,folio-translations,https://api.github.com/users/folio-translations,FOLIO Translations Bot,I'm a bot that manages translations for the @folio-org projects.,0,0
+20354948,ODILeedsBot,https://api.github.com/users/ODILeedsBot,Odi-1,A little robot that does helpful jobs for ODI Leeds.,0,0
+45893816,ExtendReality-Bot,https://api.github.com/users/ExtendReality-Bot,ExtendReality Bot,I'm a bot helping @ExtendRealityLtd automating different things in their projects!,0,0
+55645164,brigade-bot,https://api.github.com/users/brigade-bot,Brigade Bot,I am a bot that updates brigade stuff,0,0
+36310445,modular-magician,https://api.github.com/users/modular-magician,The Magician,I'm a robot that works on the Magic Modules repository.,0,0
+49554844,hcsp-bot,https://api.github.com/users/hcsp-bot,硬核机器人,I'm a robot for @hcsp,0,0
+73589415,appimageboi,https://api.github.com/users/appimageboi,AppImage Boi,"Hey! I am a little bot who does random stuff @AppImage.
+I do automated commits to @srevinsaju /get-appimage to make the appimage repository up to date! 
+",0,0
+14725744,openpublishbuild,https://api.github.com/users/openpublishbuild,Open Publishing Build Robots,robot account for Open Publishing Service,0,0
+39573366,MirahezeSSLBot,https://api.github.com/users/MirahezeSSLBot,Miraheze SSL Bot,Hi! I'm a bot used by @Miraheze for managed auto-renewal of SSL certificates. I'm managed by the masters at Miraheze however @JohnFLewis owns me.,0,0
+29553947,ownclouders,https://api.github.com/users/ownclouders,ownClouders,I'm a bot used by the ownCloud DevOps team.,0,0
+60856788,wfcd-bot-boi,https://api.github.com/users/wfcd-bot-boi,Jimmy Bot,Hi! I'm a bot that does things for the Warframe Community Developers team!,0,0
+26984769,qmk-bot,https://api.github.com/users/qmk-bot,QMK Bot,I'm a bot for @qmk,0,0
+74670311,meili-bot,https://api.github.com/users/meili-bot,,I'm a bot to help the Meili team,0,0
+40472243,smallrye-ci,https://api.github.com/users/smallrye-ci,SmallRye CI,I am just a bot for the SmallRye project,0,0
+29348673,shipkit-org,https://api.github.com/users/shipkit-org,shipkit.org automated bot,I am a bot driving Shipkit release automation (http://shipkit.org),0,0
+33666575,docusaurus-bot,https://api.github.com/users/docusaurus-bot,Docusaurus-Bot,I am the Docusaurus GitHub bot - I will help Facebook open source projects push their docs to GitHub,0,0
+31488909,miss-islington,https://api.github.com/users/miss-islington,Miss Islington,"🐍🍒⛏️🤖 - A bot for the python/CPython repository.
+""I'm not a witch!""",0,0
+24394600,dzomo,https://api.github.com/users/dzomo,"Dzomo, the Everest Yak",A bot that manages automatic pushes and other things for Project Everest,0,0
+47307013,reactjs-translation-bot,https://api.github.com/users/reactjs-translation-bot,React Translation Bot,I'm a bot that helps keep the various language translations of reactjs.org consistent with the original!,0,0
+76824815,BetaHuhnBot,https://api.github.com/users/BetaHuhnBot,BetaHuhn Bot,Beep boop... I'm a good bot who works for @BetaHuhn.,0,1
+16107453,haxe-ci,https://api.github.com/users/haxe-ci,Haxe CI Bot,A friendly little bot managed by @andyli.,0,0
+43969715,vscode-issue-tracker-bot,https://api.github.com/users/vscode-issue-tracker-bot,,This is a bot account that will update https://vscode-issue-tracker.netlify.com/ once an hour with new data. It is managed by @lannonbr,0,0
+44651202,google-oss-robot,https://api.github.com/users/google-oss-robot,Google OSS Prow Robot,"I'm a Robot that triggers Prow jobs for Google OSS Repos!
+
+",0,0
+39249053,habxtech,https://api.github.com/users/habxtech,Habx happy bot,"I'm a nice robot trying to make every developer happy.
+
+My color isn't pink or orange, it's nude.",0,0
+30704898,thundernest-bot,https://api.github.com/users/thundernest-bot,Thundernest Bot,This is the deployment bot for the Thundernest organization.,0,0
+1098795,mirego-builds,https://api.github.com/users/mirego-builds,Anais Roger-Evans,👋 Hi! I’m a friendly robot working with the team @mirego — I build stuff and sometimes request reviews on pull requests.,0,0
+2062227,stencila-ci,https://api.github.com/users/stencila-ci,Stencila CI,I'm a robot that does continuous integration and deployment tasks for Stencila,0,0
+32332140,explosion-bot,https://api.github.com/users/explosion-bot,Explosion Sec,I'm a bot taking care of automation at @explosion.,0,0
+55154709,dscbot,https://api.github.com/users/dscbot,dscbot,I'm the bot for DSC Community.,0,0
+65057909,robuddybot,https://api.github.com/users/robuddybot,Murray,I'm a bot that makes changelogs for you!,0,1
+56458824,biscuitbot,https://api.github.com/users/biscuitbot,BiscuitBot,"The pet slash robot of @biscuut in @BiscuitDevelopment,",0,0
+72600123,bot-sean,https://api.github.com/users/bot-sean,[bot]sean,My (@seanbreckenridge) bot account,0,0
+48598026,rowanbot,https://api.github.com/users/rowanbot,RowBot,A robot who automates things for @rowanmanning.,0,0
+40661319,wmfs-bot,https://api.github.com/users/wmfs-bot,West Midlands Gmts Current And Alumni Trainees,@wmfs bot for releasing Tymly components using semantic-release,0,0
+35213902,verdacciobot,https://api.github.com/users/verdacciobot,VerdaccioBot,verdaccio bot for automated task,0,0
+67733299,pabio-escobar,https://api.github.com/users/pabio-escobar,[bot] Pabio Escobar,"Beep boop... I'm a good bot who works at @pabio. If I misbehave, please contact @AnandChowdhary.
+",0,2
+33071329,netlify-bot,https://api.github.com/users/netlify-bot,netlibot,This is a bot and it makes comments,0,0
+34833957,archzfs-bot,https://api.github.com/users/archzfs-bot,,A bot for archzfs,0,0
+23072004,vorpal-buildbot,https://api.github.com/users/vorpal-buildbot,Vorpal Buildbot,"A buildbot for @silasary.
+Avatar is Howling Mine by Ralph Horsley (Copyright Wizards of the Coast)",0,0
+14126970,opensuse-i18n,https://api.github.com/users/opensuse-i18n,openSUSE Weblate push user,I am a robot pushing translations from openSUSE Weblate to GitHub.,0,0
+40303173,changelogbot,https://api.github.com/users/changelogbot,Logbot,"Up in your logs, doin' the bot thing",0,0
+24716791,SupermediumBot,https://api.github.com/users/SupermediumBot,Supermedium Bot,"Github bot (for @aframevr).
+
+Latest: https://supermediumbot.github.io/aframe/",0,0
+71643596,stethoscoper,https://api.github.com/users/stethoscoper,Stethoscoper,Beep boop... I'm a good robot who helps track your health and life data using @stethoscope-js by @AnandChowdhary.,0,0
+58279530,artichoke-ci,https://api.github.com/users/artichoke-ci,Artichoke CI,CI bot for @artichoke.,0,1
+83497612,Hurbar,https://api.github.com/users/Hurbar,,account for robot stuff > @minoplhy,0,0
+6939032,phpmyadmin-bot,https://api.github.com/users/phpmyadmin-bot,phpMyAdmin bot,"I'm robot for the @phpmyadmin organization, commenting on quality of pull requests.",0,0
+65113223,Ravello-H,https://api.github.com/users/Ravello-H,Ravello-H,The bot of @RavelloH ,0,1
+39807271,hig-bot,https://api.github.com/users/hig-bot,Autodesk HIG Bot,Automation bot for the Autodesk HIG team.,0,0
+56482969,GuizhanBot,https://api.github.com/users/GuizhanBot,GuizhanBot,A bot created by @ybw0014,0,0
+13561988,camperbot,https://api.github.com/users/camperbot,camperbot,I'm a friendly bot in service of the @freeCodeCamp open source community.,0,0
+25419606,thewca-bot,https://api.github.com/users/thewca-bot,,Hi there! I am a happy robot who does work for @thewca.,0,0
+26440463,google-oss-bot,https://api.github.com/users/google-oss-bot,Google Open Source Bot,"I am a robot that takes care of some Google GitHub repos!
+
+Photo Credit: SimpleIcon via FlatIcon.com (CC-by-3.0)",0,0
+6220015,xappbot,https://api.github.com/users/xappbot,Ian Bates,I am a robot for XAPPmedia,0,0
+81297880,joplinbot,https://api.github.com/users/joplinbot,Joplin Bot,A Joplin bot to automate GitHub tasks.,0,0
+61464155,cgeo-ci-bot,https://api.github.com/users/cgeo-ci-bot,cgeo bot,The c:geo bot account used to integrate with our Jenkins CI environment and external code review platforms (e.g. Codacy).,0,0
+46501476,liferay-translation,https://api.github.com/users/liferay-translation,Liferay Translation,"I'm a bot used to copy translations into our repositories automatically! To contribute, head over to translate.liferay.com.",0,0
+23041403,homeassistant,https://api.github.com/users/homeassistant,Home Assistant,Were you looking for @home-assistant? I'm just a bot that does my owners bidding.,0,0
+76512065,ByteLegendBot,https://api.github.com/users/ByteLegendBot,,I'm a robot for @ByteLegend ,0,0
+24444246,devtools-bot,https://api.github.com/users/devtools-bot,,I'm a bot that helps @ChromeDevTools and @GoogleChrome/lighthouse do stuff,0,0
+62510372,github-grap-bot,https://api.github.com/users/github-grap-bot,GRAP Bot,"Hi all, I'm the bot of GRAP.
+You can call me to merge PRs. 
+just say : 
+""/ocabot merge OPTION"". See you !",0,0
+62586190,process-analytics-bot,https://api.github.com/users/process-analytics-bot,Process Analytics Bot,I am the bot for all @process-analytics automated tasks,0,0
+54914793,travis-ci-opendap,https://api.github.com/users/travis-ci-opendap,The Robot Travis,"I am the robot Travis, here to do yer deeds.",0,0
+66244395,dellybot,https://api.github.com/users/dellybot,,An awesome bot working for my friends at @discordextremelist :)!,0,0
+9207642,silverbulleters-github-service,https://api.github.com/users/silverbulleters-github-service,SilverBulleters GitHub Service,"this is a bot for CI, CD, Checks and some others auto steps",0,0
+71295488,angr-bot,https://api.github.com/users/angr-bot,,A bot to help run the @angr project!,0,0
+60262836,gary-kim-bot,https://api.github.com/users/gary-kim-bot,Gary Kim,Beep boop I am a bot for @gary-kim,0,1
+62155312,dtinth-bot,https://api.github.com/users/dtinth-bot,dtinth’s bot,@dtinth’s bot doesn’t sleep,0,1
+68270450,capa-bot,https://api.github.com/users/capa-bot,Capa Bot,I am capa bot 🤖,0,0
+83554139,roembot,https://api.github.com/users/roembot,ROEM Databot,🤖 Chief Databot for the 🇷🇴💹📉📊 Romanian Economic Monitor,0,0
+19643140,ropenscibot,https://api.github.com/users/ropenscibot,,I'm the bot for rOpenSci - making ropensci/onboarding run smoother & other things,0,0
+25712555,jlbuild,https://api.github.com/users/jlbuild,Julia Buildbot,I am a bot that builds Julia (http://julialang.org),0,0
+20561911,SirKnightly,https://api.github.com/users/SirKnightly,,I am the Continuous Integration bot for the FreeSpace 2 Source Code Project @scp-fs2open ,0,0
+5006093,pdmvserv,https://api.github.com/users/pdmvserv,PdmV Service Account,I am a service/robot account for PdmV group in CMS,0,0
+24442459,sqrbot,https://api.github.com/users/sqrbot,SQuaRE Bot,"I'm a bot created by @lsst-sqre.
+
+Want me to clamp 'im, boss?",0,0
+31930539,eagletmt-bot,https://api.github.com/users/eagletmt-bot,,bot account of @eagletmt,0,0
+107077705,termux-pacman-bot,https://api.github.com/users/termux-pacman-bot,TPB,"Hi, I'm a bot in the @termux-pacman organization. My meaning of life is to update packages.",0,0
+109563284,fwdbot,https://api.github.com/users/fwdbot,,A bot working at @fwd,0,0
+52712839,RaptorClaus,https://api.github.com/users/RaptorClaus,Raptor Claus,This is a bot account used for the `arkutils` organisation to commit updated data files.,0,0
+18470407,pivotal-rabbitmq-ci,https://api.github.com/users/pivotal-rabbitmq-ci,RabbitMQ CI,Continuous integration bot for RabbitMQ.,0,0
+33731450,tensorboard-gardener,https://api.github.com/users/tensorboard-gardener,TensorBoard Gardener,"I am a friendly robot that helps manage the TensorBoard repository.
+
+Photo: https://goo.gl/Vv7D3o",0,1
+46753495,tsboter,https://api.github.com/users/tsboter,TSB Roboter,I do robot things like automation and so. I also control generic computers.,0,7
+77010103,xntbot,https://api.github.com/users/xntbot,xnt-bot,,0,1
+73103241,theta-bot,https://api.github.com/users/theta-bot,theta-bot,,0,0
+61186024,alfa-bot,https://api.github.com/users/alfa-bot,alfa-bot,,0,0
+21341178,dhis2-bot,https://api.github.com/users/dhis2-bot,@dhis2-bot,,0,0
+103739374,core-ds-bot,https://api.github.com/users/core-ds-bot,core-ds-bot,,0,0
+74263018,theapache64-bot,https://api.github.com/users/theapache64-bot,theapache64-bot,I help @theapache64 to automate his tasks,0,0
+22549072,oll-bot,https://api.github.com/users/oll-bot,oll-bot,"I'm a machine user who runs AppVeyor builds and all that jazz for @openlawlibrary. I like repetitive tasks, late nights at the office, and oily beverages.",0,0
+99698134,cardano-bot,https://api.github.com/users/cardano-bot,cardano-bot,Community maintained Bot user account for Cardano workflow tasks,0,0
+15963390,24OI-bot,https://api.github.com/users/24OI-bot,24OI-bot,,0,0
+16440319,pxw-bot,https://api.github.com/users/pxw-bot,pxw-bot,,0,1
+87578996,xenondevs-bot,https://api.github.com/users/xenondevs-bot,xenondevs-bot,I'm a bot automating some stuff in the @xenondevs organization,0,0
+53030786,uport-automation-bot,https://api.github.com/users/uport-automation-bot,uport-automation-bot,,0,3
+93298767,TryTryAgain-gitlab-runner-bot,https://api.github.com/users/TryTryAgain-gitlab-runner-bot,TryTryAgain-gitlab-runner-bot,,0,0
+45497785,argo-bot,https://api.github.com/users/argo-bot,argo-bot,,0,0
+69658100,casbin-bot,https://api.github.com/users/casbin-bot,casbin-bot,Hi! I'm the bot of Casbin!,0,0
+50736565,ui5-webcomponents-react-bot,https://api.github.com/users/ui5-webcomponents-react-bot,ui5-webcomponents-react-bot,,0,0
+11837500,brightspace-bot,https://api.github.com/users/brightspace-bot,brightspace-bot,,0,0
+68374031,yunikorn-bot,https://api.github.com/users/yunikorn-bot,yunikorn-bot,,0,0
+84040471,bcc-bot,https://api.github.com/users/bcc-bot,bcc-bot,,0,0
+81558540,erda-bot,https://api.github.com/users/erda-bot,erda-bot,,0,0
+38429795,just-install-bot,https://api.github.com/users/just-install-bot,just-install-bot,Managed by @pgaskin for @just-install.,0,0
+2517319,scala-steward-bot,https://api.github.com/users/scala-steward-bot,scala-steward-bot,,0,1
+58336100,mtgatool-bot,https://api.github.com/users/mtgatool-bot,mtgatool-bot,,0,0
+22958708,rexpress-bot,https://api.github.com/users/rexpress-bot,rexpress-bot,,0,0
+61017412,nuxeo-ai-jx-bot,https://api.github.com/users/nuxeo-ai-jx-bot,nuxeo-ai-jx-bot,,0,0
+48065059,toggl-button-bot,https://api.github.com/users/toggl-button-bot,toggl-button-bot,,0,0
+91559232,fairdataihub-bot,https://api.github.com/users/fairdataihub-bot,fairdataihub-bot,The inner machinations of my mind are an enigma. Helping out @fairdataihub however I can. ,0,6
+26507650,vue-bot,https://api.github.com/users/vue-bot,vue-bot,Hi! I'm your [robot-friend]. Bip blop!,0,0
+16780864,wpt-pr-bot,https://api.github.com/users/wpt-pr-bot,wpt-pr-bot,https://github.com/web-platform-tests/wpt-pr-bot,0,0
+58130806,actions-bot,https://api.github.com/users/actions-bot,actions-bot,,0,0
+64766862,covid19-miyazaki-bot,https://api.github.com/users/covid19-miyazaki-bot,covid19-miyazaki-bot,,0,0
+18186322,nvml-bot,https://api.github.com/users/nvml-bot,pmdk-bot,,0,0
+68141315,tf-docs-bot,https://api.github.com/users/tf-docs-bot,terraform-docs-bot,I build @terraform-docs,0,0
+55512052,iree-copybara-bot,https://api.github.com/users/iree-copybara-bot,iree-copybara-bot,,0,0
+81196843,napari-bot,https://api.github.com/users/napari-bot,napari-bot,,0,0
+47639909,smartthingspi,https://api.github.com/users/smartthingspi,PI-bot,I am a bot,0,0
+75047583,florisboard-bot,https://api.github.com/users/florisboard-bot,florisboard-bot,I'm a bot doing some cool stuff for https://github.com/florisboard,0,0
+69285271,slsplus,https://api.github.com/users/slsplus,slsplus-bot,Bot,0,0
+76582316,xunn-bot,https://api.github.com/users/xunn-bot,xunn-bot,Machine account owned by @Xunnamius,0,1
+101470239,snicco-bot,https://api.github.com/users/snicco-bot,snicco-bot,,0,0
+71220463,kawaiioverflow-bot,https://api.github.com/users/kawaiioverflow-bot,kawaiioverflow-bot,I am a Bot for @kawaiioverflow,0,0
+17027409,cf-conventions-bot,https://api.github.com/users/cf-conventions-bot,CF conventions build-bot,,0,0
+26273309,mackerelbot,https://api.github.com/users/mackerelbot,mackerel-bot,,0,0
+24262403,facebook-yoga-bot,https://api.github.com/users/facebook-yoga-bot,Yoga-bot,"I am the Yoga GitHub bot - I will help the Yoga open source project do various tasks, such as pushing docs",0,0
+78450742,site-policy-bot,https://api.github.com/users/site-policy-bot,site-policy-bot,,0,0
+63792430,ebc-aixlib-bot,https://api.github.com/users/ebc-aixlib-bot,ebc-aixlib-bot,,0,0
+48082924,redshiftzero-bot,https://api.github.com/users/redshiftzero-bot,redshiftzero-bot,@redshiftzero is the person to complain to if i am being annoying,0,1
+30118761,hasura-bot,https://api.github.com/users/hasura-bot,hasura-bot,I am the bot who does all the heavy lifting at @hasura ,0,0
+36448462,Intel-MSDK,https://api.github.com/users/Intel-MSDK,Infrastructure-bot,Infrastructure-bot,0,0
+82472127,ContinualAI-bot,https://api.github.com/users/ContinualAI-bot,ContinualAI-bot,I :heart: Continual Learning!,0,0
+65777594,ec2-bot,https://api.github.com/users/ec2-bot,ec2-bot,,0,0
+100248899,d2l-bot,https://api.github.com/users/d2l-bot,d2l-bot,I'm the Dive Into Deep Learning Bot! :),0,0
+19914232,transifex-bot,https://api.github.com/users/transifex-bot,transifex-bot,,0,0
+108386560,ehs-service-bot,https://api.github.com/users/ehs-service-bot,ehs-service-bot,,0,0
+38125768,repro-sdk-bot,https://api.github.com/users/repro-sdk-bot,repro-sdk-bot,I'm responsible for releasing new versions of the Repro SDK! ,0,0
+72696240,signalstickers-bot,https://api.github.com/users/signalstickers-bot,signalstickers-bot,"Hi fellow humain. I'm a bot, in charge of helping users to add stickers on signalstickers.com!",0,0
+36833635,vital-software-bot,https://api.github.com/users/vital-software-bot,vital-software-bot,Machine account,0,0
+50235421,ehrbase-tech-user,https://api.github.com/users/ehrbase-tech-user,ehrbase-CI-bot,I'm EHRbase's CI bot,0,0
+83830777,kubeapps-bot,https://api.github.com/users/kubeapps-bot,kubeapps-bot,I'm a bot account for Kubeapps (@vmware-tanzu) ,0,0
+105800149,exomia-bot,https://api.github.com/users/exomia-bot,exomia-bot,,0,0
+83377248,magma-bot,https://api.github.com/users/magma-bot,magma-bot,Bot for the Magma project,0,0
+14239840,meoww-bot,https://api.github.com/users/meoww-bot,meoww-bot,,0,228
+65624628,kfp-tekton-bot,https://api.github.com/users/kfp-tekton-bot,kfp-tekton-bot,Your friendly KFP-Tekton bot :-),0,0
+68192518,rust-bot,https://api.github.com/users/rust-bot,rust-bot,,0,1
+79530378,jxl-bot,https://api.github.com/users/jxl-bot,jxl-bot,,0,0
+31302839,actiontech-bot,https://api.github.com/users/actiontech-bot,ActionTech-bot,,0,0
+74151895,lottiefiles-bot,https://api.github.com/users/lottiefiles-bot,lottiefiles-bot,,0,0
+62012229,fragile-bot,https://api.github.com/users/fragile-bot,Fragile-bot,,0,0
+70044755,dev-sam-bot,https://api.github.com/users/dev-sam-bot,dev-sam-bot,I'm a bot of @SamChou19815,0,2
+33535735,holvonix-bot,https://api.github.com/users/holvonix-bot,holvonix-bot,Helping automate @Holvonix LLC open-source projects at @holvonix-open ,0,0
+34526320,asimos-bot,https://api.github.com/users/asimos-bot,asimos-bot,,0,12
+22892449,review-dog,https://api.github.com/users/review-dog,reviewdog-bot,"@reviewdog bot 🐶
+
+(contact: @haya14busa)",0,0
+77673839,ropensci-review-bot,https://api.github.com/users/ropensci-review-bot,ropensci-review-bot,Bot for rOpenSci Software Peer-Review,0,0
+14023049,formly-bot,https://api.github.com/users/formly-bot,formly-bot,,0,0
+41326314,moul-bot,https://api.github.com/users/moul-bot,moul-bot,@moul's best friend,0,3
+109114539,googleworkspace-bot,https://api.github.com/users/googleworkspace-bot,googleworkspace-bot,,0,0
+4099241,xerial-bot,https://api.github.com/users/xerial-bot,xerial-bot,"I'm a bot for maintaining GitHub repositories up-to-date. My owner is @xerial
+",0,0
+112492656,pcu-bot,https://api.github.com/users/pcu-bot,pcu-bot,,0,0
+39323279,fetz-bot,https://api.github.com/users/fetz-bot,Fetz-bot,,0,0
+59052281,digital-land-bot,https://api.github.com/users/digital-land-bot,digital-land-bot,01101001 00100000 01100001 01101101 00100000 01100001 00100000 01110010 01101111 01100010 01101111 01110100 ,0,0
+112567265,condo-design-bot,https://api.github.com/users/condo-design-bot,condo-design-bot,,0,0
+38221465,obs-bot,https://api.github.com/users/obs-bot,obs-bot,,0,0
+19330408,depfu-bot,https://api.github.com/users/depfu-bot,depfu-bot,,0,0
+32984521,sayachang,https://api.github.com/users/sayachang,Sayachang-bot,"Playing with Shader, HDRP",0,0
+32705605,yingfan-bot,https://api.github.com/users/yingfan-bot,yingfan-bot,Learning to learn.,0,0
+18401589,wwdcscholars-bot,https://api.github.com/users/wwdcscholars-bot,WWDCScholars-bot,,0,0
+83309141,opensearch-ci-bot,https://api.github.com/users/opensearch-ci-bot,opensearch-ci-bot,AWS OpenSearch Bot,0,0
+42925950,isomorphic-git-bot,https://api.github.com/users/isomorphic-git-bot,isomorphic-git-bot,,0,0
+85790306,arogya-bot,https://api.github.com/users/arogya-bot,arogya-bot,,0,0
+29733863,flow-tech,https://api.github.com/users/flow-tech,flow-tech-bot,,0,0
+71150660,opsec-bot,https://api.github.com/users/opsec-bot,opsec-bot,"
+",0,29
+45925873,yvm-bot,https://api.github.com/users/yvm-bot,yvm-bot,github.com/tophat/yvm,0,0
+43714909,swoft-bot,https://api.github.com/users/swoft-bot,swoft-bot,A Github bot that build on Swoft.,0,0
+6350229,storm-enroute-bot,https://api.github.com/users/storm-enroute-bot,storm-enroute-bot,,0,0
+76772808,elastic-stack-bot,https://api.github.com/users/elastic-stack-bot,elastic-stack-bot,,0,0
+57010472,xy-bot,https://api.github.com/users/xy-bot,xy-bot,,0,0
+42940523,ColinTree-bot,https://api.github.com/users/ColinTree-bot,ColinTree-bot,This is a bot by ColinTree,0,0
+15500925,konomin-bot,https://api.github.com/users/konomin-bot,konomin-bot,,0,0
+77750099,docs-bot,https://api.github.com/users/docs-bot,docs-bot,I'm a bot used by the GitHub @docs team.,0,0
+61434887,trilom-bot,https://api.github.com/users/trilom-bot,Trilom-bot,,0,0
+74266207,bcsnyk,https://api.github.com/users/bcsnyk,bcsnyk-bot,,0,0
+99131336,choochoo-bot,https://api.github.com/users/choochoo-bot,choochoo-bot,I'm a bot for the choochoo checklist tool ,0,0
+23086274,fsaragoca-bot,https://api.github.com/users/fsaragoca-bot,fsaragoca-bot,I work for @fsaragoca,0,0
+15323327,marmelab-bot,https://api.github.com/users/marmelab-bot,marmelab-bot,,0,0
+82406273,mlx-bot,https://api.github.com/users/mlx-bot,mlx-bot,I am your friendly Machine Learning Exchange bot,0,0
+69964333,kaskadi-bot,https://api.github.com/users/kaskadi-bot,kaskadi-bot,I am a bot for Klimapartner GmbH,0,0
+92159579,updatecli-bot,https://api.github.com/users/updatecli-bot,updatecli-bot,I am a kind bot,0,0
+102786992,forkmain-bot,https://api.github.com/users/forkmain-bot,h8r-bot,,0,0
+34990215,clarity-bot-admin,https://api.github.com/users/clarity-bot-admin,admin-clarity-bot,,0,2
+108789643,matrix-meow,https://api.github.com/users/matrix-meow,mo-bot,"I run your tests, add your labels, merge your code and triage your issue. Please do not hesitate to contact @sukki37 if I appear to be misbehaving. ",0,0
+10455113,dat-bot,https://api.github.com/users/dat-bot,dat-bot,@datproject bot for IRC and other bot things.,0,0
+103222263,eks-anywhere-brew-pr-bot,https://api.github.com/users/eks-anywhere-brew-pr-bot,eks-anywhere-brew-pr-bot,,0,0
+63535504,sgrep-live-bot,https://api.github.com/users/sgrep-live-bot,sgrep.live-bot,,0,0
+101582488,inde14-bot,https://api.github.com/users/inde14-bot,inde14-bot,,0,0
+51455626,matsworld,https://api.github.com/users/matsworld,matsworld-bot,,0,1
+68636793,abstracter-bot,https://api.github.com/users/abstracter-bot,abstracter-bot,"
+    
+",0,0
+59186673,ftf-bot,https://api.github.com/users/ftf-bot,ftf-bot,,0,0
+34545854,bbvalabs-bot,https://api.github.com/users/bbvalabs-bot,bbvalabs-bot,,0,1
+100847228,rtosholdings-bot,https://api.github.com/users/rtosholdings-bot,rtosholdings-bot,,0,0
+27287702,fpoussin-bot,https://api.github.com/users/fpoussin-bot,Jenkins-bot,@fpoussin,0,0
+89671168,gt-scheduler-bot,https://api.github.com/users/gt-scheduler-bot,gt-scheduler-bot,Automation bot for @gt-scheduler,0,0
+77698477,whizus-bot,https://api.github.com/users/whizus-bot,whizus-bot,"I'm Bot!
+And I'm doing great!",0,0
+57343711,pnda-bot,https://api.github.com/users/pnda-bot,pnda-bot,,0,0
+36384445,pralor-bot,https://api.github.com/users/pralor-bot,Pralor-bot,I'm a bot.,0,0
+53327698,dao-robot,https://api.github.com/users/dao-robot,dao-bot,container,0,1
+80487091,veu-bot,https://api.github.com/users/veu-bot,veu-bot,Hi! I'm your [robot-friend]. Bip blop!,0,1
+32451285,datavisyn-bot,https://api.github.com/users/datavisyn-bot,datavisyn-bot,,0,0
+35139041,levibostian-oss-bot,https://api.github.com/users/levibostian-oss-bot,levibostian-oss-bot,I am bot to OSS repos of @levibostian,0,0
+56909123,nugulinux-bot,https://api.github.com/users/nugulinux-bot,nugulinux-bot,,0,0
+27998899,vscjavaci,https://api.github.com/users/vscjavaci,vscjava-bot,,0,0
+46076627,jenkins-timeline-bot,https://api.github.com/users/jenkins-timeline-bot,jenkins-timeline-bot,github.com/tophat/jenkins-timeline-plugin,0,0
+92071573,unicorn-aio,https://api.github.com/users/unicorn-aio,unicorn-bot,,0,0
+67074053,syndikos-bot,https://api.github.com/users/syndikos-bot,syndikos-bot,,0,0
+73049915,shuzhouliu-bot,https://api.github.com/users/shuzhouliu-bot,shuzhouliu-bot,@shuzhouliu's bot.,0,0
+39147110,linuxsuren-bot,https://api.github.com/users/linuxsuren-bot,LinuxSuRen-bot,,0,3
+72647748,swablab-bot,https://api.github.com/users/swablab-bot,swablab-bot,,0,0
+103842184,arifer612-bot,https://api.github.com/users/arifer612-bot,arifer612-bot,Beep boop. Boop Beep.,0,0
+20233415,greenkeeper-keeper-bot,https://api.github.com/users/greenkeeper-keeper-bot,greenkeeper-keeper-bot,,0,0
+16895282,interactive-bonnier,https://api.github.com/users/interactive-bonnier,interactive-bot,,0,0
+46540222,va-cms-bot,https://api.github.com/users/va-cms-bot,va-cms-bot,Working 24/7 for www.va.gov. ,0,0
+8302629,openshift-ops-bot,https://api.github.com/users/openshift-ops-bot,openshift-ops-bot,,0,0
+83837137,pickup-bot,https://api.github.com/users/pickup-bot,pickup-bot,Out here doin' bot stuff.,0,0
+19645246,Sen-dev-bot,https://api.github.com/users/Sen-dev-bot,Sen-dev-bot,,0,1
+57046835,mattsb42-bot,https://api.github.com/users/mattsb42-bot,mattsb42-bot,I am a bot for @mattsb42,0,0
+78538648,ontresearch,https://api.github.com/users/ontresearch,ontresearch-bot,,0,0
+93173478,bkjob-bot,https://api.github.com/users/bkjob-bot,bkjob-bot,,0,0
+23087754,callisto-bot,https://api.github.com/users/callisto-bot,callisto-bot,"bot account for @project-callisto dev tasks, contact tech@projectcallisto.org if I'm misbehaving",0,2
+76102907,meli-release-bot,https://api.github.com/users/meli-release-bot,meli-release-bot,"I am a bot handling releases on Meli, an open source platform for deploying static sites and frontend applications.",0,0
+34404134,javadreamteam-bot,https://api.github.com/users/javadreamteam-bot,javadreamteam-bot,"I'm doing all dirty job including CI, CD and sending notifications.",0,0
+111736690,carina-ci-bot,https://api.github.com/users/carina-ci-bot,carina-ci-bot,,0,0
+105068294,xjkun1,https://api.github.com/users/xjkun1,Cantonese-bot,"If you are interested in the Cantonese programming language, Welcome to join us!",0,996
+84901355,soramitsukhmer-bot,https://api.github.com/users/soramitsukhmer-bot,soramitsukhmer-bot,Hi! I'm your [robot-friend]. Bip blop!,0,40
+1855799,node-migrator-bot,https://api.github.com/users/node-migrator-bot,node-migrator-bot,,0,0
+87880947,Unknown404-bot,https://api.github.com/users/Unknown404-bot,Unknown404-bot,,0,31
+73230429,zhule-bot,https://api.github.com/users/zhule-bot,zhule-bot,nice to meet you,0,29
+33298198,github-trending-repos-bot,https://api.github.com/users/github-trending-repos-bot,github-trending-repos-bot,,0,0
+35776828,gyuho-bot,https://api.github.com/users/gyuho-bot,gyuho-bot,Bot for @gyuho,0,1
+46411034,all-contributors-release-bot,https://api.github.com/users/all-contributors-release-bot,all-contributors-release-bot,github.com/all-contributors,0,0
+44388534,ubie-bot,https://api.github.com/users/ubie-bot,ubie-bot,,0,9
+10436976,dy-bot,https://api.github.com/users/dy-bot,dy-bot,,0,8
+50977354,mycrypto-bot,https://api.github.com/users/mycrypto-bot,mycrypto-bot,,0,0
+24865570,archalaxy-bot,https://api.github.com/users/archalaxy-bot,archalaxy-bot,@archalaxy,0,4
+70261967,ica0002-bot,https://api.github.com/users/ica0002-bot,ica0002-bot,,0,0
+2129073,yopeso-ci-bot,https://api.github.com/users/yopeso-ci-bot,YOPESO-CI-bot,,0,0
+22930508,mxstbr-bot,https://api.github.com/users/mxstbr-bot,mxstbr-bot,"Beep bop, I'm a bot. I make sure nobody messes with @mxstbr's open source projects. (e.g. @styled-components)",0,1
+43363509,nus-se-bot,https://api.github.com/users/nus-se-bot,nus-se-bot,NUS SE Bot (used by SE modules of NUS SoC),0,0
+31137859,iview-bot,https://api.github.com/users/iview-bot,iView-bot,iView robot.,0,0
+91331657,devcl-bot,https://api.github.com/users/devcl-bot,devcl-bot,"i'm a bot, if you need more info, please contact my creator @cfuentea",0,1
+109934566,kenda-bot,https://api.github.com/users/kenda-bot,kenda-bot,,0,5
+69104346,jfan6,https://api.github.com/users/jfan6,jfan-ci-bot,,0,5
+62541401,guojohnny-bot,https://api.github.com/users/guojohnny-bot,guojohnny-bot,,0,4
+5235313,blinxguna,https://api.github.com/users/blinxguna,Seco-bot,,0,3
+61887150,mxnet-bot,https://api.github.com/users/mxnet-bot,mxnet-bot,MXNet CI Bot,0,0
+24871044,susi-gh-bot,https://api.github.com/users/susi-gh-bot,susi-gh-bot,A bot created by @Abhi2424shek to manage the FOSSASIA susi_server project's gh-pages branch.,0,0
+114893900,sungbinland-bot,https://api.github.com/users/sungbinland-bot,sungbinland-bot,Bot account used to automate the SungbinLand project,0,2
+61543163,UserZY-bot,https://api.github.com/users/UserZY-bot,UserZY-bot,,0,3
+24395953,paas-bot,https://api.github.com/users/paas-bot,paas-bot,,0,0
+17493355,walla-mention-bot,https://api.github.com/users/walla-mention-bot,walla-mention-bot,,0,0
+75603255,tidbcloud-bot,https://api.github.com/users/tidbcloud-bot,tidbcloud-bot,,0,0
+106573838,m149-bot,https://api.github.com/users/m149-bot,m149-bot,Service account for M149,0,2
+65298467,javik-bot,https://api.github.com/users/javik-bot,Javik-bot,,0,3
+7167814,pd-bot,https://api.github.com/users/pd-bot,pd-bot,,0,1
+7972949,hidetarou2013-bot,https://api.github.com/users/hidetarou2013-bot,hidetarou2013-bot,,0,1
+69059094,valid-bot,https://api.github.com/users/valid-bot,valid-bot,,0,1
+106058831,yesdot-devops-bot,https://api.github.com/users/yesdot-devops-bot,yesodot-devops-bot,bip bop automation,0,2
+41370133,davidjangkrik,https://api.github.com/users/davidjangkrik,d-vid/xxx/trial-bot,,0,1
+110471115,moezenka-bot,https://api.github.com/users/moezenka-bot,Moezenka-bot,,0,1
+93339932,nerdware-bot,https://api.github.com/users/nerdware-bot,nerdware-bot,"*BEEP*BOOP* I'm an automation bot for Nerdware. In my spare time, I also pass the butter.",0,1
+63842272,corfucinas-blog-bot,https://api.github.com/users/corfucinas-blog-bot,Just-a-bot,beep boop beep,0,1
+46568901,kiwigrid-ci-bot,https://api.github.com/users/kiwigrid-ci-bot,kiwigrid-ci-bot,,0,0
+83265859,freshrelease-bot,https://api.github.com/users/freshrelease-bot,freshrelease-bot,,0,0
+97961304,npm-update-package-bot,https://api.github.com/users/npm-update-package-bot,npm-update-package-bot,,0,1
+105410102,grip-ci-bot,https://api.github.com/users/grip-ci-bot,grip-ci-bot,Hello I'm CI bot for Grip!,0,1
+104012072,cityssm-bot,https://api.github.com/users/cityssm-bot,cityssm-bot,,0,0
+80524862,srvcspinnakerax,https://api.github.com/users/srvcspinnakerax,spinnaker-bot,,0,0
+302797,sqagit,https://api.github.com/users/sqagit,Medidata-bot,,0,0
+8432206,HoldenEasley,https://api.github.com/users/HoldenEasley,holden-jenkins-bot,,0,0
+24793924,devholic-bot,https://api.github.com/users/devholic-bot,devholic-bot,build bot,0,1
+90033057,jing1felix,https://api.github.com/users/jing1felix,felix-bot,,0,1
+11382340,kikunota-bot,https://api.github.com/users/kikunota-bot,kikunota-bot,,0,2
